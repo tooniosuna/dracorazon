@@ -95,6 +95,10 @@ figure{
 	max-width: 60%;
 }
 
+#custom-icon-box-color {
+	--accent-color: #9e25a9;
+}
+
 img{
 	max-width: 100%;
 }

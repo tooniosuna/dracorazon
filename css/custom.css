@@ -99,6 +99,10 @@ figure{
 	--accent-color: #9e25a9;
 }
 
+#custom-p-location-color {
+	color: var(--text-color);
+}
+
 img{
 	max-width: 100%;
 }

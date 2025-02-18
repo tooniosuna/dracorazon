@@ -4832,7 +4832,7 @@ header.main-header .header-sticky.active{
 	}
 
 	.navbar-brand img{
-		max-width: 160px;
+		max-width: 75%;
 	}
 
 	.navbar{

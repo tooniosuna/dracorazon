@@ -101,6 +101,7 @@ figure{
 
 #custom-p-location-color {
 	color: var(--text-color);
+	padding-bottom: 20px;
 }
 
 img{

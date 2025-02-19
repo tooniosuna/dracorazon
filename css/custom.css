@@ -919,6 +919,7 @@ header.main-header .header-sticky.active{
 .hero-content{
 	position: relative;
 	z-index: 2;
+	padding-bottom: 200px;
 }
 
 .hero.hero-bg-image .hero-content{

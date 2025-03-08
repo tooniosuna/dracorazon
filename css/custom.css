@@ -110,6 +110,13 @@ figure{
 	z-index: 1;
 }
 
+/* Custom responsive actions */
+@media (max-width: 768px) {
+	#custom-do-not-show {
+	  display: none;
+	}
+  }
+
 #center-map-contacto-custom {
 	text-align: center; /* Centra el contenido */
 }

@@ -105,6 +105,11 @@ figure{
 	text-decoration: none;
 }
 
+#center-btn-contacto-custom {
+	text-align: center; /* Centra el contenido */
+    margin-top: 20px; /* Espaciado opcional */
+}
+
 img{
 	max-width: 100%;
 }

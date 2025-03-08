@@ -116,7 +116,12 @@ figure{
 
 #center-map-contacto-custom {
 	text-align: center; /* Centra el contenido */
-    margin-top: 40px; /* Espaciado opcional */
+    margin-top: 25px; /* Espaciado opcional */
+}
+
+#center-address-contacto-custom {
+	text-align: center;
+	margin-top: 40px;
 }
 
 img{

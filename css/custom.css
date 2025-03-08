@@ -115,6 +115,10 @@ figure{
 	#custom-do-not-show {
 	  display: none;
 	}
+
+	#navbar-main-custom01 {
+		max-width: 160px;
+	}
   }
 
 #center-map-contacto-custom {

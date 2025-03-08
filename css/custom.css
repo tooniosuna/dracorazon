@@ -114,6 +114,11 @@ figure{
     margin-top: 40px; /* Espaciado opcional */
 }
 
+#center-map-contacto-custom {
+	text-align: center; /* Centra el contenido */
+    margin-top: 40px; /* Espaciado opcional */
+}
+
 img{
 	max-width: 100%;
 }

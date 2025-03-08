@@ -105,6 +105,11 @@ figure{
 	text-decoration: none;
 }
 
+#custom-contact-section-row{
+	position: relative;
+	z-index: 1;
+}
+
 #center-map-contacto-custom {
 	text-align: center; /* Centra el contenido */
 }

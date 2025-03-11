@@ -119,6 +119,10 @@ figure{
 	#navbar-main-custom01 {
 		max-width: 160px;
 	}
+
+	#section-title-responsive-top-padding {
+		margin-top: 38px;
+	}
   }
 
 #center-map-contacto-custom {

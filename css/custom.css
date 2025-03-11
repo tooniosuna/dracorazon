@@ -4521,7 +4521,7 @@ header.main-header .header-sticky.active{
 	display: flex;
 	flex-wrap: wrap;
 	gap: 60px;
-	padding: 0px 60px 60px 60px;
+	padding: 60px;
 }
 
 .contact-info-box{

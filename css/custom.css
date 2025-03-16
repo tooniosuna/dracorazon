@@ -115,6 +115,10 @@ figure{
 	max-width: 67%;
 }
 
+#custom-horario-margin-bottom {
+	margin-bottom: 20px;
+}
+
 /* Custom responsive actions */
 @media (max-width: 768px) {
 	#custom-do-not-show {

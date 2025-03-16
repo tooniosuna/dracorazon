@@ -110,6 +110,10 @@ figure{
 	z-index: 1;
 }
 
+#aviso-tyc-width-custom-fix {
+	max-width: 67%;
+}
+
 /* Custom responsive actions */
 @media (max-width: 768px) {
 	#custom-do-not-show {
